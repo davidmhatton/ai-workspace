@@ -1,0 +1,8 @@
+{
+  "name": "david-style",
+  "version": "0.1.0",
+  "description": "Loads David's writing style guide at session start — Plain Words rules, formatting, punctuation, and output length conventions.",
+  "author": {
+    "name": "David Hatton"
+  }
+}
