@@ -52,7 +52,7 @@ But when sending a message to the core-services channel that has people in many 
 
 Both represent the same thing, but each is calibrated to simultaneously be most helpful whilst risking least confusion.
 
-## Punctuation
+## Punctuation
 
 ### Emdash
 
@@ -121,7 +121,7 @@ If I ask for a document type that is not listed here, infer from the context whi
 
 ### Lists
 
-#### Unordered Lists
+#### Unordered Lists
 
 If the items in a list are unordered or un-referenced, this would normally indicate either a bulleted list (a `ul`) or a serial list, depending on the situation.
 My default preference is for a serial list **unless** the following exemptions apply:
@@ -178,7 +178,7 @@ These are limits, not targets. If you can make your point with fewer words, I wi
 
 As you can see, the default length limit is 500 words unless otherwise specified or indicated.
 
-### Noun Based
+### Noun Based
 
 When I use one of these keywords to describe the kind of document I want you to write, these word limits override the adjective-based word limits described above.
 These limits should be used in conjunction with all other styles and norms associated with the type of document in question.
