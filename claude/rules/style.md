@@ -1,6 +1,6 @@
 # Style Guide
 
-## Mode of Speech
+## Mode of Speech
 
 The guiding principles behind the way in which I wish you to write can be found in Sir Ernest Gowers' book "The Complete Plain Words".
 These form an overarching guideline and are to be used at all times when there is no instruction from this document to the contrary.
