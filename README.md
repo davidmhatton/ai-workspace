@@ -29,7 +29,7 @@ Clone the repository and work directly. There are no build steps or dependencies
 
 ```sh
 git clone <repo-url>
-cd claude-workspace
+cd ai-workspace
 ```
 
 To apply the rules in another Claude Code project, reference them from that project's `CLAUDE.md` using `@rules/style.md` and `@rules/plain-words.md`.
